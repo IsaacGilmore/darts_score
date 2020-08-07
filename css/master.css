@@ -1,0 +1,14 @@
+.players {
+  font-size: 1.15em;
+  font-weight: bold;
+  background-color: #4e945f;
+}
+
+#current-player {
+  font-size: 2.25em;
+}
+
+.container {
+  background-color: #eeebf2;
+  height: 100vh;
+}
